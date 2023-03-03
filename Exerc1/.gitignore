@@ -1,0 +1,51 @@
+# arquivos gerados automaticamente
+obj/
+bin/
+Debug/
+Release/
+*.pdb
+*.exe
+*.dll
+
+# arquivos temporários
+*.user
+*.bak
+*.cache
+
+# arquivos do Visual Studio
+*.suo
+*.sln.docstates
+*.vs/
+*.vssscc
+*.userprefs
+*.vspscc
+
+# NuGet packages
+packages/
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# Resharper
+_ReSharper*/
+*.ReSharper*/
+
+# Testes
+TestResults/
+*.trx
+
+# Windows Explorer thumbnails
+Thumbs.db
+ehthumbs.db
+
+# arquivos de log
+*.log
+*.log.xml
+*.log4net
+*.ndoc.log
+
+# arquivos de compilação Unity
+Temp/
+Library/
+Builds/
+*.stackdump
