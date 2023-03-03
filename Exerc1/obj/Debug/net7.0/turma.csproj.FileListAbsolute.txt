@@ -1,0 +1,15 @@
+C:\Users\emanu\OneDrive\Área de Trabalho\OOP-cSharp\turma\obj\Debug\net7.0\turma.csproj.AssemblyReference.cache
+C:\Users\emanu\OneDrive\Área de Trabalho\OOP-cSharp\turma\obj\Debug\net7.0\turma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\OneDrive\Área de Trabalho\OOP-cSharp\turma\obj\Debug\net7.0\turma.AssemblyInfoInputs.cache
+C:\Users\emanu\OneDrive\Área de Trabalho\OOP-cSharp\turma\obj\Debug\net7.0\turma.AssemblyInfo.cs
+C:\Users\emanu\OneDrive\Área de Trabalho\OOP-cSharp\turma\obj\Debug\net7.0\turma.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Área de Trabalho\OOP-cSharp\turma\bin\Debug\net7.0\turma.exe
+C:\Users\emanu\OneDrive\Área de Trabalho\OOP-cSharp\turma\bin\Debug\net7.0\turma.deps.json
+C:\Users\emanu\OneDrive\Área de Trabalho\OOP-cSharp\turma\bin\Debug\net7.0\turma.runtimeconfig.json
+C:\Users\emanu\OneDrive\Área de Trabalho\OOP-cSharp\turma\bin\Debug\net7.0\turma.dll
+C:\Users\emanu\OneDrive\Área de Trabalho\OOP-cSharp\turma\bin\Debug\net7.0\turma.pdb
+C:\Users\emanu\OneDrive\Área de Trabalho\OOP-cSharp\turma\obj\Debug\net7.0\turma.dll
+C:\Users\emanu\OneDrive\Área de Trabalho\OOP-cSharp\turma\obj\Debug\net7.0\refint\turma.dll
+C:\Users\emanu\OneDrive\Área de Trabalho\OOP-cSharp\turma\obj\Debug\net7.0\turma.pdb
+C:\Users\emanu\OneDrive\Área de Trabalho\OOP-cSharp\turma\obj\Debug\net7.0\turma.genruntimeconfig.cache
+C:\Users\emanu\OneDrive\Área de Trabalho\OOP-cSharp\turma\obj\Debug\net7.0\ref\turma.dll
